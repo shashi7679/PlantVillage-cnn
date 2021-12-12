@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from tensorflow.keras import layers
 
 #Constants
-BATCH_SIZE = 4
-IMAGE_SIZE = 64
+BATCH_SIZE = 1
+IMAGE_SIZE = 256
 EPOCHS = 50
 CHANNEL = 3
 
